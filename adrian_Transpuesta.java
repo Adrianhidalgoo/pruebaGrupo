@@ -15,6 +15,12 @@ public class adrian_Transpuesta {
     }
  
     public static void main(String[] args) {
+
+
+        
+
+
+
         int A[][] = {{1, 1, 1, 1},
                 {2, 2, 2, 2},
                 {3, 3, 3, 3},
@@ -41,7 +47,11 @@ public class adrian_Transpuesta {
                 System.out.print(b[i][j] + " ");
             System.out.print("\n");
         }
+
+
         System.out.printl ("saludossssss hoy 23/05 de Prado Fal");
 
+
+  System.out.println("Hola soy Carlos");
     }
 }
