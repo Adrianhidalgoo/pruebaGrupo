@@ -41,7 +41,7 @@ public class adrian_Transpuesta {
                 System.out.print(b[i][j] + " ");
             System.out.print("\n");
         }
-        System.out.println(" saludossssss hoy 23/05 de Prado Fal");
+        System.out.printl ("saludossssss hoy 23/05 de Prado Fal");
 
     }
 }
