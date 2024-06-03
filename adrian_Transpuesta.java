@@ -18,7 +18,7 @@ public class adrian_Transpuesta {
 
 
         
-
+        System.out.prinln("Hola pedro");
 
 
         int A[][] = {{1, 1, 1, 1},
